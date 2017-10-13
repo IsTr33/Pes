@@ -1,2 +1,2 @@
 # Pes
-Tell me if pes discount
+Tell me if pes discounts
