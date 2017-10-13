@@ -19,7 +19,7 @@ def send_email(price):
     mail_user="user"
     mail_pass="pass" 
 
-    sender = 'sender
+    sender = 'sender'
     receivers = 'receivers'
 
     message = MIMEText(price, 'plain', 'utf-8')
